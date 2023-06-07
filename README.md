@@ -7,7 +7,7 @@ Bảo hiểm bên thứ ba đây là sản phẩm bảo hiểm trách nhiệm ph
 Bộ dữ liệu ausprivauto0405 được dựa trên số liệu về số hợp đồng bảo hiểm trách nhiệm dân sự đối với bên thứ ba dành cho xe cơ giới của một công ty bảo hiểm trong giai đoạn 2004 đến 2005.  
 Tổng cộng có 67856 hợp đồng.
 ## Chi tiết 
-[Contribution guidelines for this project](/ausprivauto0405_analysis.ipynb)
+[Phân tích chi tiết bằng Jupyter Notebook](/ausprivauto0405_analysis.ipynb)
 ## Kết quả 
 `1.` Thời gian hiệu lực hợp đồng trung khi xảy ra yêu cầu bồi thường là khoảng 7 tháng 13 ngày.  
 `2.` Trong 67856 hợp đồng có 4624 hợp đồng xảy ra yêu cầu bồi thường, tương ứng với tỉ lệ bồi thường xấp xỉ 6.81%.  
