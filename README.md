@@ -1,4 +1,4 @@
-# Phân tích dữ liệu Bồi thường Bảo hiểm trách nhiệm dân sự đối với bên thứ ba
+# Phân tích dữ liệu Bồi thường Bảo hiểm trách nhiệm dân sự chủ xe cơ giới đối với bên thứ ba
 ## Mục tiêu
 Tìm hiểu những đặc điểm về phân bổ và xu của số lượng yêu cầu bồi thường và số tiền yêu cầu bồi thường cũng như trực quan hóa những đặc điểm đáng quan tâm.
 ## Thông tin về bộ dữ liệu:
